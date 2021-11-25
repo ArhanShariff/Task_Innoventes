@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task Innoventes</string>
+    <string name="s">S.</string>
+    <string name="heading">First of the few steps to set you up with a Bank Account</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="pan_hint">Enter PAN Number</string>
+    <string name="birth_date">BIRTHDATE</string>
+    <string name="day">DD</string>
+    <string name="month">MM</string>
+    <string name="year">YYYY</string>
+    <string name="info">Providing PAN &amp; Date of Birth helps us find and fetch your KYC from a center registry by the Government of India.</string>
+    <string name="no_pan">I don"'"t have a PAN</string>
+
+</resources>
